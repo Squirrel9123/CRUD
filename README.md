@@ -8,4 +8,6 @@ Protein structure prediction: https://drive.google.com/file/d/1mhjaRe8KuYzFKe2ih
 Essential guide pdf: https://drive.google.com/file/d/1TZY58ccqPWZ1AKcyBZ3Jtr4fbzpUxs2U/view?usp=sharing
 
 Fragrance : https://drive.google.com/file/d/1zHlU-sibQfLQ0EuyA7Jq1bIGcPuYtxD_/view?usp=sharing
+
+https://drive.google.com/file/d/1r7Opyd6Dy8jcPN-JuIhetNU-yCxQsUje/view?usp=sharing
 ```
